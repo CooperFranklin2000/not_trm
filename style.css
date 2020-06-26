@@ -1,0 +1,15 @@
+.nav-bar {
+  padding: 15px;
+}
+
+.theNav {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}

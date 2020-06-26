@@ -1,0 +1,24 @@
+.nav-bar {
+  padding: 15px;
+}
+
+.theNav {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+#theVid {
+  width: 180px;
+  height: 250px;
+}
+
+#theMain {
+  display: flex;
+  justify-content: space-around;
+}
+
+.theImage {
+  width: 180px;
+  height: 250px;
+}
